@@ -1,0 +1,2890 @@
+@media screen and (max-width: 55em) {
+
+.cbp-af-header .cbp-af-inner {
+        width: 100%;
+    }
+
+.cbp-af-header h1,
+.cbp-af-header nav {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+    }
+
+.cbp-af-header h1,
+.cbp-af-header nav a {
+        line-height: 115px;
+    }
+
+.cbp-af-header nav a {
+        margin: 0 10px;
+    }
+
+.cbp-af-header.cbp-af-header-shrink h1,
+.cbp-af-header.cbp-af-header-shrink nav a {
+        line-height: 45px;
+    }
+
+.cbp-af-header.cbp-af-header-shrink h1 {
+        font-size: 2em;
+    }
+
+.cbp-af-header.cbp-af-header-shrink nav a {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 32.25em) 
+{
+.cbp-af-header nav a
+	{
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 24em) 
+{
+.cbp-af-header nav a,
+.cbp-af-header.cbp-af-header-shrink nav a 
+	{
+        line-height: 1;
+    }
+}
+
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width : 1366px) 
+{
+.news 
+	{
+    	margin-top: 25px;
+	}
+.news h1 
+	{
+		line-height: 1;
+		margin-top: 10px;
+	}
+
+.news .col-lg-3 .block-5-content h2
+	{
+		bottom: -85px !important;
+		left: 3px !important;
+	}
+.contakt .advertising h1 
+	{
+    	margin-top: -67px;
+	}
+.contakt .advertising h1 
+	{
+    	margin-top: -59px;
+	}
+
+.block-header 
+	{
+    	padding: 155px 0px 11px !important;
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	left: 3px !important;
+    	bottom: -80px !important;
+    	position: absolute;
+    	margin-left: -15px;
+    	padding-right: 10px;
+	}
+.news.advertising h1 
+	{
+    	margin-top: -56px !important;
+	}
+.news .col-xs-3
+	{
+		padding: 0 !important;
+	}	
+#COINWIDGETCOM_WINDOW_0
+	{
+		width: 282px !important;
+	}
+.advertising h1 
+	{
+    	margin-top: -58px;
+    	font: 700 44px RobotoCondensed;
+		width: 100%;
+	}
+.casinos-page-2 .col-xs-3
+	{
+			padding: 0 !important;
+	}
+.block-header 
+	{
+  		padding: 120px 0px 11px !important;
+	}
+.block-footer 
+	{
+  		height: 330px !important;
+	}
+}
+@media only screen and (max-width : 1280px) 
+{
+.contakt .advertising h1 
+	{
+		padding: 0px 18.5px 6px;
+    	margin-top: -67px !important;
+	}	
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) 
+{
+p
+	{	
+		margin: 10px 0px 10px !important;
+	}
+.btc-box 
+	{
+    	width: 100% !important;
+    	height: 120px !important;
+	}
+#widget-ticker-preview
+	{
+		height: 100% !important;
+		width: 100% !important;
+	}
+.block-4 .col-xs-3 img 
+	{
+    	width: 96%;
+    	height: 100%;
+	}
+.block-4 h1 
+	{
+    	font: 700 18px RobotoCondensed;
+	}
+.block-4 .col-xs-12 .col-xs-3:first-of-type h1 
+	{
+    	margin-bottom: 33px !important;
+	}
+.block-6 .col-xs-4 img 
+	{
+    	width: 97%;
+    	height: 100%;
+	}
+.block-5 .col-xs-3 img, .block-8 .col-xs-3 img , .block-7 .col-xs-3 img
+	{
+		width: 96%;
+		height: 100%;
+	}
+.site-con 
+	{
+    	margin-bottom: 18px;
+	}
+.block-4 h5
+	{
+    	font: 700 20px RobotoCondensed;
+	}
+.block-4 .col-xs-3:nth-of-type(3) .bg-img-4:hover 
+	{
+  		width: 96.5%;
+  		height: 90%;
+	}	
+.block-4 .bg-img-4 
+	{
+		width: 96.5%;
+  		height: 90%;
+	}
+
+.block-5 .col-xs-3 img, .block-8 .col-xs-3 img, .block-7 .col-xs-3 img 
+	{
+  		width: 100%;
+  		height: 100%;
+	}
+.block-5-content h1 
+	{
+		bottom: 123px;
+		height: 60.5%;
+		width: 87.8%;
+		padding-top: 120px;
+	}
+.bg-img-3 
+	{
+		width: 97%;
+		height: 62%;
+		margin-left: 5px;
+	}
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1 
+	{
+    	width: 87%;
+	}	
+.block-7 .col-xs-3:nth-of-type(3) .bg-img-4:hover 
+	{
+  		width: 100% !important;
+	}
+.block-7 .col-xs-3:nth-of-type(2) .bg-img-4:hover 
+	{
+  		width: 100% !important;
+	}	
+.bg-img-4 
+	{
+    	width: 97.5%;
+    	margin-left: 5px;
+	}
+.block-8 .bg-img-4 
+	{
+		width: 97.5%;
+		height: 100%;
+		position: absolute;
+		opacity: 0;
+		transition: all 0.5s ease 0s;
+		margin-left: 5px;
+		z-index: 1001;
+		display: block;
+	}
+.block-8 .col-xs-3:nth-of-type(2) .bg-img-4
+	{
+		width: 100%;	
+	}
+.block-8 .col-xs-3:nth-of-type(3) .bg-img-4:hover
+	{
+		width: 100%;	
+	}	
+}
+@media only screen and (max-width : 1024px)
+{ 
+ .col-xs-9.page-1-content img:first-child
+	{
+		width: 100%;
+		height: 100%;
+	}
+.col-xs-9.page-1-content .col-xs-2 img
+	{
+		width: 50%;
+	}
+.col-xs-9.page-1-content .col-xs-2.bonus
+	{
+		font-size: 9px;
+	}
+.col-xs-9.page-1-content .text h2
+	{
+		font-size: 24px;	
+	}
+.col-xs-9.page-1-content .name h1
+	{
+		font: 400 13px RobotoCondensed;	
+	}
+.col-xs-9.page-1-content .text	h3 {
+    font-size: 13px;
+}
+	.wrapper.casinos-page-1 .sidebar ul li a img {
+    width: 100% !important;
+}
+.menu-item-has-children::after 
+	{
+		right: 10px
+	}
+.col-xs-9.page-1-content .text p {
+    font: 400 14px/30px RobotoCondensed;
+    color: #000;
+    padding: 0px 20px;
+}
+	.page-1-content  .text img
+{
+	display: block;
+	float: inherit;
+}
+.COINWIDGETCOM_WINDOW > a img 
+	{
+    margin: -14px !important;
+}
+.menu ul li
+	{
+    	padding: 0px 20px;
+	}
+.logo img 
+	{
+    	margin-bottom: 20px;
+    	margin-top: -10px;
+	}
+.news h1 
+	{
+    	font: 700 45px "StencilStd";
+    	margin-bottom: 0;
+    	line-height: 1;
+	}
+.news h2 
+	{
+		font: 700 33px "StencilStd";
+		margin-top: 0;
+	}
+.news .col-xs-9 img 
+	{
+    	width: 35%;
+    	height: 100%;
+    	padding-top: 3px;
+	}
+.sidebar .col-xs-6 img 
+	{
+    	width: 96% !important;
+    	height: 100% !important;
+    	margin-bottom: 0px !important;
+	}
+.sidebar .col-xs-6 p:first-child
+	{
+		margin-top: 10px !important;	
+	}
+.advertising img 
+	{
+    	height: 100% !important;
+    	width: 99% !important;
+    	margin-top: 42px;
+	}
+.advertising h1
+	{
+		padding: 0px 17px 6px;
+		margin-top: -29px;
+		font: 700 23px/1 "StencilStd";
+	}
+.sb-biz
+	{
+		width: 50% !important;
+	}
+.sb-biz img 
+	{
+    	width: 96%;
+    	height: 100%;
+	}
+.sb-biz h2 
+	{
+    font-size: 10px !important;
+    line-height: 2.2;
+    left: 0px;
+    bottom: -85px;
+    padding-right: 50px;
+	}
+input 
+	{
+		margin-top: 10px;
+		width: 100%;
+	}
+.news-content p 
+	{
+    	padding: 10px;
+	}
+.name h1 
+	{
+    	font: 400 14px RobotoCondensed;
+	}
+.site-con .button-red 
+	{
+    	font: 400 15px RobotoCondensed !important;
+    	padding: 3px 12px;
+	}
+.site-con .col-xs-2:first-child img 
+	{
+    	width: 80% !important;
+		height: 100%;
+	}
+.site-con .col-xs-2 p
+	{
+		font-size: 11px !important;	
+	}
+.casinos-page-2 .sidebar .col-xs-6 img 
+	{
+		width: 96% !important;
+		height: 100% !important;
+	}
+.casinos-page-2 .advertising h1 
+	{
+    	margin-top: -29px !important;
+    	padding: 0px 21px 6px;
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+		font-size: 10px !important;
+		line-height: 1.2;
+		left: 5px;
+		bottom: 35px;
+		padding-right: 50px;
+	}
+#owl-demo .item img 
+	{
+    	margin-bottom: 75px !important;
+	}
+.slider a 
+	{
+		padding: 3px 5px;
+		left: 298px;
+		bottom: 127px;
+	}	
+#btc-quote
+	{
+		margin-left: 10px !important;	
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	padding-right: 40px;
+    	line-height: 1;
+	}
+.news .advertising h1 
+	{
+    	margin-top: -29px !important;
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	bottom: -82px !important;
+    	margin-left: 0px;
+    	padding-right: 0px !important;
+	}
+.search-in .button-red 
+	{
+    	text-transform: uppercase;
+    	padding: 9px 38px;
+    	margin-bottom: 80px !important;
+		margin-top: 15px;
+	}
+.search-in h1 
+	{
+    	font: 700 33px/1 "StencilStd";
+    	margin-bottom: 10px;
+	}
+.news .sidebar p:first-child 
+	{
+    	padding-top: 0px;
+    	margin-top: 0 !important;
+	}
+.news .advertising h1 
+	{
+		margin-top: -34px !important;
+		padding-top: 5px;
+		width: 99%;
+	}
+.vidjit #btc-quote 
+	{
+    	margin-left: 0px !important;
+	}	
+#COINWIDGETCOM_WINDOW_0
+	{
+		width: 235px !important;
+	}
+.vidjit:nth-of-type(4)
+	{
+		margin-top: -20px !important;
+		margin-bottom: 10px !important;
+	}
+.sidebar p:first-child
+	{
+    	padding-top: 10px;
+    	margin-top: 0px !important;
+    	padding-bottom: 0;
+    	margin-bottom: 0 !important;
+	}
+.COINWIDGETCOM_WINDOW > input 
+	{
+		width: 175px!important;
+	}
+.COINWIDGETCOM_WINDOW > span 
+	{
+    	width: 95px !important;	
+	}
+.COINWIDGETCOM_WINDOW > a img
+	{
+    	margin: 5px!important;
+	}
+.casinos-content h1 
+	{
+    	font: 700 35px "StencilStd";
+    	color: #FFF;
+    	text-shadow: 2px 4px 2.6px #000;
+    	text-align: center;
+    	margin: 0px;
+    	padding-top: 18px;
+	}
+.sidebar ul li a img 
+	{
+    	height: 63px;
+    	display: inline-block;
+    	width: 243px !important;
+	}	
+
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+.menu 
+	{
+    	display: inline-block;
+    	width: 100%;
+	}
+.menu ul li 
+	{
+    	padding: 0px 10px;
+	}
+.menu-footer ul li 
+	{
+    	padding: 0px 5px;
+	}
+.menu-footer ul li a::before
+	{
+		display: none;
+	}
+.menu-footer ul li:last-child a::after
+	{
+		display: none;
+	}
+.slider a 
+	{
+    	padding: 10px 5px;
+    	left: 180px;
+    	font: 700 15px "StencilStd";
+	}
+.sb-search.sb-search-open, .no-js .sb-search 
+	{
+    	width: 40%;
+	}
+.logo img 
+	{
+    	margin-bottom: 30px;
+    	margin-top: 0px;
+    	width: 68%;
+	}
+.sidebar p
+	{
+		padding-top: 5px;
+	}
+.block-4 h2 
+	{
+    	font: 700 48px "StencilStd";
+	}
+.block-4 .col-xs-12 .col-xs-3:first-of-type h2 
+	{
+    	margin-bottom: 31px !important;
+	}
+.button-red, .button-blue
+	{
+    	font: 400 15px "StencilStd";
+	}
+.button-red
+	{
+		padding: 14px 42px;
+	}
+.block-5-content h2 
+	{
+		bottom: 120px;
+		left: 32px;
+		font: 700 17px/20px "StencilStd";
+	}
+.block-9 .col-xs-3 img 
+	{
+    	width: 100%;
+    	height: 100%;
+	}
+.block-9 p
+	{	
+		font-size: 10px;
+	}
+.news-content h3 
+	{
+		font: 700 16.61px RobotoCondensed;
+		padding-right: 10px;
+	}
+.news-content h4 span 
+	{
+    	font: 700 15px RobotoCondensed;
+    	padding: 10px 18px 12px;
+	}
+.news-content h4
+	{
+    	font: 700 15px RobotoCondensed;
+	}
+.news-content p
+	{
+		font-size: 10px;	
+	}
+.news-content 
+	{
+		width: 299px;
+	}
+	
+.sidebar .col-xs-6 p
+	{
+		font-size: 10px;
+	}
+.advertising h1 
+	{
+		padding: 0px 8.5px 6px;
+		margin-top: -24px;
+		font: 700 18px/1 "StencilStd";
+	}
+.block-5-content h2 
+	{
+    	bottom: -80px;
+    	left: 2px;
+    	font: 700 8px/10px "StencilStd";
+    	text-align: left;
+    	padding-right: 20px;
+	}
+.search-in h1 
+	{
+    	font: 700 33px/1 "StencilStd";
+	}
+.advertising h1 
+	{
+   	 	margin-top: -24px !important;
+	}
+.casinos-page-2 .advertising h1 
+	{
+    	margin-top: -24px !important;
+    	padding: 0px 11.5px 6px;
+	}
+.casinos-page-2 .col-xs-2 a 
+	{
+    	text-decoration: none;
+    	font-size: 60% !important;
+	}	
+.site-con .col-xs-2 p 
+	{
+    	font-size: 8px !important;
+	}
+.name h1 
+	{
+    	font: 400 10px RobotoCondensed;
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+		font-size: 9px !important;
+		line-height: 1.2;
+		left: 5px;
+		bottom: 35px;
+		padding-right: 24px;
+	}
+.casinos-content p
+	{
+    	font: 400 15px RobotoCondensed;
+	}
+.logo img 
+	{
+    	margin-bottom: 30px;
+    	margin-top: 0px;
+    	width: 35%;
+	}
+
+.forma span.input:nth-child(1) 
+	{
+    	width: 100% !important;
+	}
+.forma span.input:nth-child(2) 
+	{
+    	width: 100% !important;
+	}
+.forma span.input
+	{
+    	width: 100% !important;
+	}
+.contakt .sidebar p 
+	{
+    	padding-top: 0px !important;
+	}
+.soc-2 li 
+	{
+    	display: inline-block;
+    	padding: 0px 12px;
+	}
+.contakt .advertising h1 
+	{
+    	padding: 0px 11.5px 6px;
+    	margin-top: -24px !important;
+	}
+.contakt .block-5-content h2 
+	{
+    	bottom: 30px;	
+	}
+.about-as p 
+	{
+    	font: 400 15px/30px RobotoCondensed;
+	}	
+.about-as p:last-child
+	{
+    	padding-bottom: 32px;
+	}
+.menu ul li a 
+	{
+    	font: 400 14px RobotoCondensed;
+	}
+.menu ul li 
+	{
+    	padding: 0px 26px 0  0!important;
+	}
+.menu ul li:last-child
+	{
+		padding-right: 0px !important;	
+	}
+.sidebar ul li a img 
+	{
+    	width: 173px;
+    	height: 45px;
+    	display: inline-block;
+	}
+.sidebar li 
+	{
+    	height: 55px;
+	}
+.sidebar a:first-child p
+	{
+    	padding-top: 19px;
+	}
+.menu-item-has-children::after 
+	{
+    	margin-left: 90px;
+		margin-top: -38px;
+	}
+.block-4 h5 
+	{
+    	font: 700 15px RobotoCondensed;
+	}
+
+.block-4 .bg-img-4 
+	{
+    	width: 96.5%;
+    	height: 88%;
+	}
+.button-red 
+	{
+    	padding: 9px 28px;
+	}
+.block-5-content h1 
+	{
+		bottom: 104px;
+		height: 56.5%;
+		width: 83.8%;
+		padding-top: 80px;
+		font-size: 20px !important;
+	}
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1
+	{
+    	width: 84%;
+	}
+.bg-img-3 
+	{
+    	width: 97%;
+    	height: 56.5%;
+    	margin-left: 3px;
+	}
+.bg-img-4 
+	{
+    	width: 97.5%;
+    	margin-left: 3px;
+	}
+.block-8 .bg-img-4
+	{
+    	width: 98.5%;
+    	margin-left: 3px;
+	}
+.block-header 
+	{
+    	padding: 175px 0px 11px;
+    	display: block;
+	}
+.cbp-af-header 
+	{
+		height: 145px;
+	}
+#COINWIDGETCOM_WINDOW_0 
+	{
+    	width: 176px !important;
+	}
+.COINWIDGETCOM_WINDOW > input 
+	{
+		width: 125px !important;
+	}
+.COINWIDGETCOM_WINDOW > a img 
+	{
+    	margin: 5px !important;
+	}	
+.COINWIDGETCOM_WINDOW > span 
+	{
+		width: 77px !important;
+	}
+.news .advertising h1 
+	{
+		margin-top: -29px !important;
+	}
+.news h2 
+	{
+    	margin-bottom: 40px;
+	}
+.news 
+	{
+    	margin-top: 20px;
+	}
+#btc-last-wrapper
+	{
+		font-size: 24px !important;	
+	}
+.btc-hides
+	{
+		top: 70px !important;	
+	}
+.casinos-content h1 
+	{
+    	font: 700 34px "StencilStd";
+    	padding-top: 15px;
+	}
+.casinos-page-2 .advertising h1 
+	{
+    	margin-top: -28px !important;
+    	padding: 5px 28.5px 5px;
+    	width: 99% !important;
+	}	
+.sidebar ul li a img 
+	{
+    	width: 188px !important;
+    	height: 48px !important;
+	}	
+}
+@media only screen and (max-width : 800px)
+{ 
+.news h1 
+	{
+		font: 700 35px/1 "StencilStd";
+	}
+.news h2 
+	{
+    	font: 700 25px "StencilStd";
+    	margin-bottom: 80px;
+	}
+.block-5-content h2 
+	{
+		bottom: -30px;
+	}
+.advertising h1
+	{
+		font-size: 18px !important;	
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+		bottom: -40px !important;
+	}
+.contakt .sidebar .col-xs-6 p:first-child 
+	{
+    	margin-top: 10px !important;
+    	margin-bottom: 0 !important;
+    	padding-bottom: 0;
+	}
+.contakt
+	{
+		padding-bottom: 20px;
+	}
+.menu ul li 
+	{
+    	padding: 0px 33px 0px 0px !important;
+	}
+.block-footer 
+	{
+    	height: 266px;
+	}	
+	
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+.block-3 .col-xs-3:last-child .textwidget 
+	{
+    	margin-left: 10px;
+		height: 100%;
+	}
+.menu ul li 
+	{
+    	padding: 0px 28px 0px 0px !important;
+	}
+#owl-demo .item img 
+	{
+    	margin-bottom: 40px !important;
+	}	
+.sidebar ul li a img 
+	{
+    	width: 100% !important;
+    	height: 48px !important;
+	}
+.bg-img-3 
+	{
+    	height: 78%;
+	}	
+}
+@media only screen and (max-width : 640px) 
+{
+.sidebar 
+	{
+  		margin-bottom: 10px;
+	}
+.menu 
+	{
+    	display: inline-block;
+    	width: 82%;
+	}
+.menu ul li 
+	{
+    	padding: 0px 7px;
+	}
+.sb-search.sb-search-open, .no-js .sb-search 
+	{
+    	width: 50%;
+	}
+.menu-button
+	{
+		display: block;
+	}
+.block-1 .container .menu
+	{
+		display: none;
+	}
+.logo 
+	{
+    	display: inline-block;
+    	margin-left: 50px;
+	}
+.logo img
+	{
+    	width: 10%;
+    	position: absolute;
+    	left: 12%;
+    	top: 4%;
+		margin: 0;
+	}
+.menu-button 
+	{
+    	margin: 12px !important;
+	}
+
+.sidebar p 
+	{
+		padding-top: 5px;
+	}
+.header img 
+	{
+    	width: 100%;
+    	height: 100%;
+	}
+.btc-box 
+	{
+    	height: 146px !important;
+	}
+#hitbtc-canvas canvas
+	{
+		height: 147px !important;	
+	}
+#btc-logo
+	{
+		margin: 0px 3px -4px 0px !important;
+		width: 18px !important;
+		height: 18px !important ;
+	}
+.block-3 .col-xs-3:last-child .textwidget iframe 
+	{
+		width: 90% !important;
+	}
+.block-3 .col-xs-3
+	{
+		width: 50% !important;	
+	}
+#hitbtc-ticker.hit-small 
+	{
+		height: 180px !important;
+	}
+.block-9 h4
+	{
+		font-size: 14px;	
+	}
+.block-9 p 
+	{
+    	font-size: 8px;
+	}
+.block-7 h5 
+	{
+		font: 700 18.37px/16px RobotoCondensed;
+	}
+.block-6 h5 
+	{
+    	font: 700 19px RobotoCondensed;
+    	margin: 30px 3px 0px;
+	}
+.block-4 h2 
+	{
+    	font: 700 12px RobotoCondensed;
+    	margin-bottom: 0px;
+	}
+.block-4 .col-xs-12 .col-xs-3:first-of-type h2 
+	{
+    	margin-bottom: 15px !important;
+	}
+.button-red, .button-blue 
+	{
+    	-webkit-background-size: 100%;
+    	background-size: 100%;
+		font: 400 8px RobotoCondensed;
+		margin: 10px auto 20px;
+	}
+.block-5-content h2 
+	{
+    	bottom: 60px;
+    	font: 700 14px/20px "StencilStd";
+	}
+.footer-mnu img 
+	{
+    	margin: 0px auto 35px;
+    	width: 15%;
+	}
+.slider h1 
+	{
+    	font: 700 36px "StencilStd";
+		left: 90px;
+	}
+.news-content h3 
+	{
+		font: 700 12.61px RobotoCondensed;
+	}
+.news-content h4 span 
+	{
+		font: 700 11px RobotoCondensed;
+	}
+.news-content h4 
+	{
+    	font: 700 11px RobotoCondensed;
+	}
+.sidebar .col-xs-6 p 
+	{
+    	font-size: 7px;
+	}
+.news-content p 
+	{
+    	font-size: 8px;
+	}
+.advertising h1 
+	{
+    	padding: 5px 10.5px 6px;
+    	margin-top: -25px;
+    	font: 700 14px/1 "StencilStd" !important;
+	}
+.news-content 
+	{
+    	width: 245px;
+	}
+.sb-biz h2 
+	{
+    	font-size: 7px !important;	
+		line-height: 1 !important;
+		margin-bottom: -20px !important;
+	}
+.news h1 
+	{
+    	font: 700 30px/1 "StencilStd";
+	}
+.news h2 
+	{
+    	font: 700 25px "StencilStd";
+    	margin-bottom: 35px;
+	}
+.search-in .button-red
+	{
+		-webkit-background-size: 100% 100%;
+		background-size: 100% 100%;
+		padding: 12px 45px;
+	}
+.search-in h1
+	{	
+		font: 700 25px/1 "StencilStd" !important;
+	}
+.casinos-page-2 .advertising h1
+	{
+    	margin-top: -20px !important;
+    	padding: 0px 13px 6px;
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+    	font-size: 7px !important;
+    	bottom: 57px;
+	}
+.name h1 
+	{
+    	font: 400 7px RobotoCondensed;
+		margin-top: 10px !important;
+	}
+.casinos-content p 
+	{
+    	font: 400 12px RobotoCondensed;
+		padding-top: 10px;
+	}
+.fair img 
+	{
+    	width: 20%;
+    	height: 20%;
+	}
+.table 
+	{
+		height: 40px;
+	}
+.casinos-content-full .name-bg 
+	{
+		height: 39px;
+	}
+.casinos-page-2  .col-xs-6 p 
+	{
+    	font-size: 7px !important;
+    	margin-top: 0 !important;
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+		font-size: 7px !important;
+		bottom: 63px;
+		padding-right: 10px;
+	}
+.language li a img 
+	{
+    	margin-bottom: 15px;
+	}
+.cbp-af-header .logo img 
+	{
+    	width: 33%;
+    	position: absolute;
+    	left: 12%;
+    	top: 4%;
+    	margin: 0px;
+    	z-index: -1;
+	}
+.cbp-af-header-shrink .logo img 
+	{
+		width: 33%;
+		position: absolute;
+		left: 12%;
+		top: -15px;
+	}
+.cbp-af-header-shrink .language ul 
+	{
+    	margin-top: 3px;
+	}
+cbp-af-header .language ul 
+	{
+    	margin-top: 25px;
+	}
+.cbp-af-header
+	{
+    	height: 90px;
+	}
+.cbp-af-header.cbp-af-header-shrink 
+	{
+    	height: 65px;
+	}	
+.sidebar a:first-child p 
+	{
+    	padding-top: 20px;
+	}
+.sidebar p 
+	{
+    	padding-top: 0px;
+    	padding-bottom: 0;
+    	margin-bottom: 0 !important;
+	}
+.block-header 
+	{
+    	padding: 120px 0px 11px;
+	}
+.button-send 
+	{
+    	width: 128px !important;
+    	height: 39px !important;	
+	}
+.soc-2 li 
+	{
+    	display: inline-block;
+    	padding: 0px 1px;
+	}
+.soc-2 ul 
+	{
+    	padding-left: 0;
+	}
+.contakt .advertising h1 
+	{
+    	padding: 0px 13px 6px;
+    	margin-top: -20px !important;
+	}
+.contakt .block-5-content h2 
+	{
+    	bottom: 60px;
+	}	
+.about-as p 
+	{
+    	font: 400 15px/20px RobotoCondensed;
+	}
+.sidebar ul li a img 
+	{
+    	width: 145px;
+    	height: 37px;
+	}
+.sidebar li 
+	{
+    	height: 45px;
+	}
+#owl-demo .item img 
+	{
+    	margin-bottom: 30px !important;
+	}
+.slider a 
+	{
+    	padding: 0px 5px;
+    	left: 170px;
+    	font: 700 15px "StencilStd";
+    	margin-bottom: -55px;
+	}
+.owl-pagination 
+	{
+    	bottom: 30px;
+	}
+.block-4, .block-5, .block-6, .block-7, .block-8, .block-9 
+	{
+    	background: transparent url("../images/bonus-hanter.png") no-repeat scroll center top / 100% auto;
+    	background-size: 100% !important;
+	}
+.block-4 h2 
+	{
+    	font: 700 12px StencilStd;
+    	margin-bottom:40px;
+    	margin-top: 10px;
+	}
+.block-5 h2, .block-6 h2, .block-4 h2, .block-7 h2, .block-8 h2, .block-9 h2 
+	{
+    	text-align: center;
+    	margin-top: 12px;
+    	margin-bottom: 40px;
+    	font: 700 12px StencilStd;
+	}
+.button-red 
+	{
+    	padding: 8px 28px;
+	}
+.block-4 .bg-img-4 
+	{
+    	width: 96.5%;
+    	height: 87%;
+	}
+block-4 .col-xs-3:nth-of-type(3) .bg-img-4:hover 
+	{
+    	width: 96.5%;
+    	height: 87%;
+	}
+.block-5-content h1 
+	{
+		bottom: 47px;
+		height: 64.5%;
+		width: 80.8%;
+		padding-top: 80px;
+    	font-size: 20px !important;
+	}
+.block-footer 
+	{
+    	height: 204px !important;
+	}
+.block-5-content h1
+	{
+    	font-size: 16px !important;
+    	line-height: 16px;
+	}
+.block-bg-2 
+	{
+    	height: 42px;
+	}
+.bg-img-3 
+	{
+    width: 97%;
+    height: 85.8%;
+    margin-left: 3px;
+}
+.block-bg
+	{
+    	height: 41px;
+	}
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1
+	{
+    	width: 81%;
+	}
+.img-page 
+	{
+    	width: 40px !important;
+		height: 40px !important;
+	}
+.block-7 h5
+	{
+    	margin-top: 10px;
+	}
+.block-6 h5 
+	{
+    	margin: 10px 3px 0px;
+	}
+.block-4 .col-xs-3:nth-of-type(3) .bg-img-4:hover
+	{
+    	width: 96.5%;
+    	height: 86%;
+	}
+.block-footer 
+	{
+    	height: 235px;
+	}
+.footer-mnu img 
+	{
+		margin: 20px auto 10px;
+		width: 26%;
+	}	
+#nav ul 
+	{
+    	opacity: 0;
+    	margin-left: 148px !important;
+    	margin-top: -70px;
+	}
+.block-header 
+	{
+    	padding: 120px 0px 11px !important;
+	}
+.news 
+	{
+    	margin-top: 20px;
+	}
+.news .advertising h1 
+	{
+    	margin-top: -25px !important;
+    	padding-top: 5px;
+    	
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	bottom: 60px !important;
+	}
+#COINWIDGETCOM_WINDOW_0 
+	{
+    	width: 153px !important;
+	}
+.COINWIDGETCOM_WINDOW > input
+	{
+    	width: 110px !important;
+	}
+.COINWIDGETCOM_WINDOW > span 
+	{
+    	width: 65px !important;
+	}
+.COINWIDGETCOM_WINDOW > a img 
+	{
+    	margin: 5px !important;
+	}
+.vidjit #hitbtc-ticker.hit-small #hitbtc-main-value 
+	{
+    	font-size: 21px !important;
+    	margin-top: 17px !important;
+	}
+.vidjit #hitbtc-ticker.hit-small 
+	{
+    	height: 130px !important;
+	}
+.vidjitr #hitbtc-ticker #hitbtc-logo
+	{
+		height: 5px !important;
+	}
+.vidjit #hitbtc-ticker.hit-small #hitbtc-selector
+	{
+    	margin: 8px 0px 0px 9px;
+    	width: 73px;
+	}
+.vidjit #hitbtc-ticker #hitbtc-main-value
+	{
+		padding-top: 20px !important ;
+		line-height: 1 !important;	
+	}
+.vidjit  .text-center span span
+	{
+		font-size: 12pt !important;
+	}	
+.casinos-content h1 
+	{
+    	font: 700 26px "StencilStd";
+    	padding-top: 20px;
+	}
+.casinos-page-2 
+	{
+    	border-bottom: 17px solid #F00;
+    	padding-right: 15px;
+	}
+.sidebar ul li a img 
+	{
+    	width: 100% !important;
+    	height: 40px !important;
+	}	
+ .contakt .col-xs-9
+	{
+		padding-left: 3px!important;
+	}
+ .contakt .col-xs-3
+	{
+		padding-right: 3px !important;	
+	}
+.news .col-xs-12
+	{
+		padding:0 6px !important;
+	}
+.news .col-xs-9
+	{
+		padding: 0 !important;	
+	}
+.logo 
+	{
+    	display: inline-block;
+    	margin-left: 50px;
+    	position: relative;
+    	z-index: 100000;
+    	width: 121%;
+    	top: -77px;
+    	left: -75px;
+	}
+	
+.cbp-af-header-shrink .logo 
+	{
+		display: inline-block;
+		margin-left: 50px;
+		position: relative;
+		z-index: 100000;
+		width: 121%;
+		top: -53px;
+		left: -75px;
+	}
+.wrapper.casinos-page-1 .col-xs-9.page-1-content
+	{
+		padding: 5px !important;	
+	}
+.wrapper.casinos-page-1	.col-xs-3
+	{
+		padding-right: 5px !important;	
+	}
+.wrapper.casinos-page-1	.col-xs-3 .advertising h1
+	{
+    	width: 95%;
+	}
+.name-bg h3 
+	{
+    	margin-top: 13px;
+    	font-size: 11px;
+	}
+.trading-content h1 
+	{
+    	font: 700 29px 'StencilStd';
+    	padding-top: 20px;
+	}
+table td 
+	{
+    	display: block;
+    	width: 100%;
+    	padding: 0 20px;
+	}
+#nav li
+	{
+    	display: block;
+    	width: 100% !important;
+	}
+#nav ul
+	{
+		z-index: 100;
+	}
+}
+
+@media only screen and (max-width : 570px)
+{
+.news .col-xs-9 img 
+	{
+		width: 64.5%;
+		height: 100%;
+		padding-top: 3px;
+		margin-left: 8.5%;
+		margin-bottom: 10px;
+	}
+	
+.search-in .button-red,	.button-red 
+	{
+    	padding: 8px 25px;
+	}
+.news .col-xs-3
+	{
+		padding: 0 !important;	
+	}	
+.advertising h1 
+	{
+		padding: 5px 11.5px 6px;
+	}
+.sidebar .col-xs-6 p 
+	{
+    	font-size: 9px;
+	}
+.news h1 
+	{
+    	font: 700 24px/1 "StencilStd";
+	}
+.news h2 
+	{
+    	font: 700 20px "StencilStd";
+    	margin-bottom: 35px;
+	}
+.menu 
+	{
+    	display: inline-block;
+    	width: 78%;
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	bottom: 60px !important;
+    	left: 3px !important;
+	}
+.advertising h1 
+	{
+    	padding: 5px 15.5px 6px;
+	}
+.casinos-page-2 .advertising h1 
+	{
+    	margin-top: -18px !important;
+    	padding: 0px 11px 6px;
+    	font-size: 12px;
+	}
+.casinos-page-2 .col-xs-2 a 
+	{
+    	text-decoration: none;
+    	font-size: 60% !important;
+    	margin-top: 13px !important;
+	}
+.slider a 
+	{
+    	padding: 0px 5px;
+    	left: 163px;
+    	font: 700 9px "StencilStd";
+	}
+.sidebar a:first-child p 	
+	{
+    	padding-top: 17px;	
+	}
+.sidebar ul li a img 
+	{
+    	width: 127px;
+    	height: 33px;
+	}
+.block-4 .bg-img-4 
+	{
+    	width: 96.5%;
+    	height: 85%;
+    	margin-left: 3px !important;
+	}
+.block-4 .col-xs-3:nth-of-type(3) .bg-img-4:hover
+	{
+    	width: 96.5%;
+    	height: 85%;
+	}
+.block-5-content h1 
+	{
+		bottom: 45px;
+		height: 66%;
+		width: 78.8%;
+		padding-top: 70px;
+		font-size: 11px !important;
+		line-height: 11px;
+		padding-left: 5px;
+		padding-right: 10px;
+	}
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1 
+	{
+    	width: 79%;
+	}
+.bg-img-3 
+	{
+    	width: 97%;
+    	height: 64.8%;
+    	margin-left: 3px;
+	}
+.news .col-xs-9 
+	{
+    	width: 60% !important;
+	}
+.news .col-xs-3 
+	{
+    	width: 40% !important;
+	}
+.news .col-xs-9 img 
+	{
+   	 	width: 83.5%;
+    	height: 100%;
+   	 	padding-top: 3px;
+    	margin-left: 10.5%;
+    	margin-bottom: 10px;
+	}
+.news .sidebar ul li a img 
+	{
+    	width: 216px;
+    	height: 56px;
+	}
+.news .sidebar li 
+	{
+    	height: 66px;
+	}
+.news .advertising h1 
+	{
+    	margin-top: -25px !important;
+    	padding-top: 5px;
+    	
+	}
+.news .col-xs-3 .sb-biz
+	{
+		width: 50% !important;	
+	}
+.sb-biz img 
+	{
+		width: 96%;
+		height: 100%;
+		margin: 2px;
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	bottom: 27px !important;
+    	left: 3px !important;
+    	font-size: 15px !important;
+	}	
+#COINWIDGETCOM_WINDOW_0 
+	{
+    	width: 212px !important;
+	}
+.casinos-page-2 .sidebar ul li a img
+	{
+    	width: 139px !important;
+    	height: 36px !important;
+	}
+		
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 510px) 
+{
+.sb-search.sb-search-open, .no-js .sb-search 
+	{
+    	width: 45%;
+	}
+.slider a 
+	{
+    	left: 125px;
+    	font: 700 8px "StencilStd";
+	}
+.slider h1 
+	{
+    	font: 700 27px "StencilStd";
+    	left: 67px;
+	}
+.sidebar p 
+	{
+    	font-size: 8px;
+	}
+.block-4, .block-5, .block-6, .block-7, .block-8, .block-9 
+	{
+		-webkit-background-size: 100% !important;
+		background-size: 100% !important;
+	}
+.block-5 h2, .block-6 h2, .block-4 h2, .block-7 h2, .block-8 h2, .block-9 h2 
+	{
+		font-size: 10px !important;
+		margin-top: 4px;
+		margin-bottom: 30px;
+	}	
+.block-4 img:first-child 
+	{
+    	width: 10%;
+	}
+.block-4 h2 
+	{
+    	font: 700 10px RobotoCondensed;
+    	margin-left: 5px;
+	}
+.button-red, .button-blue 
+	{
+    	padding: 6px 26px;
+	}
+.block-5-content h2 
+	{
+    	bottom: 47px;
+    	font: 700 11px/10px "StencilStd";
+    	left: 25px;
+	}
+.block-6 .col-xs-12:first-of-type img
+	{
+		width: 10% ;
+		height: auto;
+	}
+.block-5 .col-xs-12 img, .block-7 .col-xs-12 img, .block-8 .col-xs-12 img, .block-9 .col-xs-12 img
+	{
+		width: 10% !important;
+		height: auto;
+	}
+ .block-5 .col-xs-3 img, .block-7 .col-xs-3 img,  .block-8 .col-xs-3 img,  .block-9 .col-xs-3 img  
+	{
+		height: 100% !important;
+		width: 100% !important;
+	}	
+.block-6 .col-xs-4 img
+	{
+		width: 96% !important;
+		height: 100px !important;
+	}
+.block-7 h5 
+	{
+    	font: 700 13.37px/16px RobotoCondensed;
+	}
+.footer-mnu img
+	{
+    	margin: 0px auto 10px;
+    	width: 15%;
+	}
+.news h1 
+	{
+    	font: 700 20px/1 "StencilStd";
+	}
+.news h2 
+	{
+    	font: 700 18px "StencilStd";
+    	margin-bottom: 35px;
+	}
+.news .col-xs-9
+	{
+		width: 65% !important;	
+	}
+.news .col-xs-3
+	{
+		width: 35% !important;
+	}
+.news .col-xs-9 img 
+	{
+		height: 100%;
+		width: 87%;
+		margin: 10px 10.5% 20px;
+	}
+.news .sidebar p:first-child 
+	{
+    	padding-top: 10px;
+	}
+.sidebar .col-xs-6 p 
+	{
+    	font-size: 7px;
+	}
+.advertising h1 
+	{
+    	width: 81.5%;
+	}
+.news  .sb-biz 
+	{
+		width: 50% !important;	
+	}
+.sb-biz h2
+	{
+    	font-size: 9px !important;
+    	line-height: 1 !important;
+    	margin-bottom: -5px !important;
+    	left: 4px !important;
+	}
+.search-in h1 
+	{
+    	font: 700 31px/1 "StencilStd" !important;
+	}
+.block-5 h2, .block-6 h2, .block-4 h2, .block-7 h2, .block-8 h2, .block-9 h2 
+	{
+    	font: 700 20px "StencilStd";
+    	margin-top: 10px;
+    	margin-bottom: 30px;
+	}
+.block-5-content h1 
+	{
+		bottom: 41px;
+		height: 64%;
+		width: 75.8%;
+		padding-top: 55px;
+	}
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1 
+	{
+    	width: 76%;
+	}
+.block-bg-2 
+	{
+    	height: 32px;
+	}
+.bg-img-3 {
+    height: 74.8%;
+}
+.block-bg 
+	{
+    	height: 34px;
+	}
+.footer-mnu img 
+	{
+    	margin: 15px auto 10px;
+    	width: 37%;
+	}
+.block-footer
+	{
+		height: 235px;
+	}	
+.wrapper.casinos-page-1 .col-xs-9.page-1-content
+	{
+		width: 100% !important;	
+		padding: 0 15px !important;
+	}
+.wrapper.casinos-page-1	.col-xs-3
+	{
+		width: 100% !important;
+		padding: 0 15px !important;
+	}
+.col-xs-9.page-1-content .name h1 {
+    font: 400 9px RobotoCondensed;
+}
+	.col-xs-9.page-1-content .col-xs-2.bonus {
+    font-size: 5px;
+		margin-bottom: 10px;
+}
+.wrapper.casinos-page-1 .col-xs-12 .col-xs-2
+	{
+	 	padding: 0 2.5px;
+	}
+	.wrapper.casinos-page-1 .col-xs-12.name
+	{
+		margin-bottom: 20px !important;
+	}
+.wrapper.casinos-page-1 .sidebar li 
+	{
+    	height: 100%;
+	}	
+	.wrapper.casinos-page-1 .col-xs-12 .col-xs-3
+	{
+		width: 25% !important;
+	}
+.wrapper.casinos-page-1 .col-xs-12 .col-xs-3.button .button-red {
+    font: 400 9px RobotoCondensed !important;
+    padding: 3px 12px;
+}
+.wrapper.casinos-page-1 .col-xs-12 .col-xs-3.site
+	{
+		font-size: 8px;	
+	}
+.wrapper.casinos-page-1 .col-xs-3 .advertising h1 {
+    width: 90%;
+}	
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 480px) 
+{
+	
+.language ul li
+	{
+		padding-left: 10px;	
+	}
+.sb-search 
+	{
+		margin-left: 10px;
+	}
+.sb-search.sb-search-open, .no-js .sb-search 
+	{
+    	width: 48%;
+	}
+.block-5-content h2 
+	{
+		bottom: 60px;
+	}
+.block-5 h1, .block-6 h1, .block-4 h1, .block-7 h1, .block-8 h1, .block-9 h1 
+	{
+    	margin-bottom: 15px;
+	}
+.block-8 h5 
+	{
+    	font: 700 15.37px RobotoCondensed;
+    	margin-left: 5px;
+	}
+.soc li 
+	{
+    	padding: 0px 6px;
+	}
+.news .col-xs-9 img 
+	{
+    	width: 94%;
+	}
+.sb-biz h2 
+	{
+		font-size: 8px !important;
+		margin-bottom: -19px !important;
+	}
+.advertising h1 
+	{
+    	width: 80.6%;
+	}
+.sidebar .col-xs-6 p 
+	{
+    	font-size: 6.4px;
+	}
+.search-in h1 
+	{
+    	font: 700 27px/1 "StencilStd" !important;
+	}
+.casinos-page-2 .advertising h1 
+	{
+		margin-top: -15px !important;
+		padding: 0px 12.5px 6px !important;
+		font-size: 9px !important;
+	}
+.casinos-page-2 .col-xs-6 p 
+	{
+		font-size: 6px !important;
+		margin-top: 5px !important;
+	}
+.casinos-page-2 .col-xs-2 a 
+	{
+    	text-decoration: none;
+    	font-size: 40% !important;
+	}
+.site-con .col-xs-2 p 
+	{
+    	font-size: 5px !important;
+	}
+.search-in h1 
+	{
+    	font: 700 21px/1 "StencilStd" !important;
+	}
+.casinos-content p 
+	{
+    	font: 400 9px RobotoCondensed;
+    	padding-top: 10px;
+		margin-bottom: 0 !important;
+	}
+.name-bg .col-xs-2
+	{
+		padding: 0 !important;
+		
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+    	font-size: 6px !important;
+    	bottom: 58px;
+    	padding-right: 10px;
+	}
+.casinos-page-2 .sidebar a:first-child p 
+	{
+    	padding-top: 0px;
+    	margin-top: 0 !important;
+	}
+.casinos-page-2	.col-xs-9
+	{
+		margin-bottom: 20px;
+	}
+.contakt .col-xs-9,.contakt .col-xs-3
+	{
+		width: 100% !important;
+	}
+.contakt .sidebar p
+	{
+    	font-size: 17px;
+	}
+.contakt .sidebar .col-xs-6 p:first-child 
+	{
+    	font-size: 20px;	
+	}
+.contakt .advertising h1 
+	{
+    	padding: 0px 75px 6px;
+    	margin-top: -47px !important;
+    	font-size: 40px !important;
+  
+	}
+.contakt .block-5-content h2
+	{
+		font-size: 55px !important;
+	}
+.button-red, .button-blue 
+	{
+    	padding: 6px 22px;
+	}
+.block-5-content h1 
+	{
+    bottom: 32px;
+    height: 60%;
+    width: 73.8%;
+    padding-top: 55px;
+}		
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1 
+	{
+    	width: 75%;
+	}
+.block-4 .bg-img-4 
+	{
+    	width: 96.5%;
+    	height: 83%;
+    	margin-left: 3px !important;
+	}
+.block-4 .col-xs-3:nth-of-type(3) .bg-img-4:hover
+	{
+   	 	width: 96.5%;
+    	height: 83%;
+	}
+.bg-img-4 
+	{
+    	width: 97.8%;
+    	margin-left: 2px;
+	}	
+.block-8 .bg-img-4	
+	{
+		margin-left: 1px;
+		width: 98.8%;
+	}
+.block-4 h5 
+	{
+    	font: 700 13px RobotoCondensed;
+	}
+.news-c 
+	{
+    	margin-bottom: 0px;
+	}
+.news .sidebar ul li a img 
+	{
+    	width: 158px;
+    	height: 40px;
+	}
+.news .sidebar ul li
+	{
+		height: 50px;	
+	}
+.advertising img 
+	{
+	    margin-top: 10px;
+	}
+.news .advertising h1 
+	{
+    	margin-top: -25px !important;
+    	padding-top: 5px;
+	}
+.news .col-lg-3 .block-5-content h2
+	{
+    	font-size: 10px !important;
+	}
+.search-in .button-red, .button-red 
+	{
+    	padding: 6px 25px;
+		margin-top: 5px;
+	}
+.news .col-xs-9 img 
+	{
+    	height: 100%;
+    	width: 93%;
+    	margin: 10px 11.8% 20px;
+	}
+.sidebar .col-xs-6 p 
+	{
+    	font-size: 12px;
+	}
+#COINWIDGETCOM_WINDOW_0 
+	{
+    	width: 154px !important;
+	}
+.logo {
+    	display: inline-block;
+    	margin-left: 50px;
+   		 position: relative;
+    	z-index: 100000;
+    	width: 121%;
+    	top: -107px;
+    	left: -75px;
+	}
+.cbp-af-header-shrink .logo 	
+	{
+		display: inline-block;
+		margin-left: 50px;
+		position: relative;
+		z-index: 100000;
+		width: 121%;
+		top: -86px;
+		left: -75px;
+	}	
+}
+@media only screen and (max-width : 370px)
+{
+
+.trading-content h1 
+	{
+    	font: 700 20px 'StencilStd';
+    	padding-top: 30px;
+	}
+.wrapper.block-1.cbp-af-header #sb-search
+	{
+    	margin-top: 62px;
+	}
+.wrapper.block-1.cbp-af-header.cbp-af-header-shrink #sb-search 
+	{
+    	margin-top: 43px;
+	}
+.casinos-page-2 .sidebar ul li a img
+	{
+    	width: 100% !important;
+    	height: auto !important;
+	}
+.block-footer 
+	{
+    	height: 211px !important;
+	}
+.copiright 
+	{
+    	margin-bottom: 0px !important;
+	}	
+}
+@media only screen and (max-width : 360px)
+{
+.cbp-af-header.cbp-af-header-shrink 
+	{
+    	height: 100px;
+	}
+.cbp-af-header 
+	{
+    	height: 140px;
+	}	
+.slider
+	{
+		margin-right: 0 !important;	
+	}
+.slider h1 
+	{
+    	font: 700 16px "StencilStd";
+    	left: 67px;
+    	top: -10px;
+	}
+	
+.owl-theme .owl-controls .owl-page span,.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls .owl-page span:hover
+	{
+		width: 6px !important;
+		height: 6px !important;
+		margin: 3px !important;
+	}
+.logo img 
+	{
+    	width: 10%;
+    	left: 17%;
+    	top: 15%;
+	}
+.language ul li img 
+	{
+    	position: relative;
+    	z-index: 100;
+	}
+.slider a 
+	{
+    	left: 100px;
+    	font: 700 5px "StencilStd";
+    	padding: 3px 5px;
+	}
+.block-5 h1, .block-6 h1, .block-4 h1, .block-7 h1, .block-8 h1, .block-9 h1 
+	{
+		font: 700 10px "StencilStd";
+		margin-top: 5px;
+	}
+.block-4 h2
+	{
+    	font: 700 7px RobotoCondensed;
+    	margin-left: 5px;
+	}
+.block-4 .col-xs-12 .col-xs-3:first-of-type h2 
+	{
+    	margin-bottom: 9px !important;
+	}
+.button-red, .button-blue 
+	{
+    	padding: 3px 10px;
+		font: 400 6px RobotoCondensed;
+	}
+.block-5-content h2 
+	{
+		font: 700 5px/5px "StencilStd";
+		left: 19px;
+		padding-right: 20px;
+		bottom: 40px !important;
+	}
+.block-6 h5 
+	{
+    	font: 700 11px RobotoCondensed;
+    	margin: 10px 3px 0px;
+		
+	}
+.block-8 h5 
+	{
+		font: 700 7.37px RobotoCondensed;
+		margin-left: 0px;
+		margin-bottom: 3px;
+	}
+.block-9 .col-xs-3
+	{
+			padding: 3px !important;
+	}
+.button-blue
+	{
+    	padding: 3px 10px !important;
+		-webkit-background-size: 100% 100%;
+		background-size: 100% 100%;
+	}
+.block-7 h5 
+	{
+   		font: 700 6.37px/16px RobotoCondensed;
+    	margin-top: 10px;
+    	margin-bottom: 3px;
+		margin-top: 10px;
+	}
+.language ul 
+	{
+    	padding-top: 40px;
+		text-align: center;
+	}
+.sb-search.sb-search-open, .no-js .sb-search 
+	{
+    	width: 65%;
+	}
+.sidebar li a
+	{
+		font-size: 10px;
+	}
+.menu 
+	{
+    	width: 78%;
+	}
+.news h1 
+	{
+    	font: 700 16px/1 "StencilStd";
+		margin-top: 5px;
+	}
+.news h2 
+	{
+    	font: 700 10px "StencilStd";
+    	margin-bottom: 35px;
+	}
+.news .col-xs-9
+	{
+		width: 50% !important;	
+	}
+.news .col-xs-3
+	{
+		width: 50% !important;
+		padding: 0 !important;
+	}
+.news-content 
+	{
+    	width: 100%;
+    	margin: 0;
+	}
+.news-content h3 
+	{
+    	font: 700 8.61px RobotoCondensed;
+		padding-left: 10px;
+	}
+.news-content h4
+	{
+    	font: 700 8px RobotoCondensed;
+		padding-left: 10px !important;
+	}
+.news-content h4 span 
+	{
+    	font: 700 8px RobotoCondensed;
+    	padding: 11px 3px 10px;
+    	margin-left: 3px;
+	}
+.news .col-xs-9 img 
+	{
+    	width: 100%;
+    	margin-left: 0;
+	}
+.sidebar .col-xs-6 p 
+	{
+    	font-size: 9px;
+	}
+.advertising h1 
+	{
+    	width: 98%;
+    	margin-top: -25px !important;
+	}
+.block-5-content h2 
+	{
+    	bottom: 30px !important;
+	}
+.search-in .button-red 
+	{
+    	padding: 3px 10px;
+	}
+.sb-biz img 
+	{
+    	margin-bottom: 5px;
+	}
+.news .col-lg-3 .block-5-content h2
+	{
+    	bottom: 30px !important;
+    	left: 3px !important;
+	}
+.cbp-af-header .logo img 
+	{
+		width: 50%;
+		left: 20%;
+		top: 10%;
+		margin: 0px;
+		z-index: -1;
+	}
+.cbp-af-header-shrink .logo img 
+	{
+		width: 33%;
+		left: 20%;
+		top: -4%;
+		margin: 0px;
+		z-index: -1;
+	}
+.block-header
+	{
+    	padding: 160px 0px 11px;
+	}
+.slider a
+	{
+		padding: 0 6px;
+		left: 130px;
+	}
+.casinos-page-2 .advertising h1 
+	{
+		margin-top: -45px !important;
+		padding: 7px 38.5px 6px !important;
+		font-size: 33px !important;
+	}
+
+.casinos-page-2 .col-xs-9 
+	{
+    	margin-bottom: 20px;
+		width: 100% !important;
+	}
+.casinos-page-2 .col-xs-3
+	{
+		width: 100% !important;
+	}
+.site-con
+	{
+		padding: 0 !important;	
+	}
+.casinos-page-2 .col-xs-2 a 
+	{
+    	text-decoration: none;
+    	font-size: 40% !important;
+    	margin-top: 10px !important;
+	}
+.casinos-page-2 .col-xs-6 p 
+	{
+    	font-size: 10px !important;
+    	margin-top: 5px !important;	
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+    	font-size: 37px !important;
+	}
+.forma 
+	{
+    	padding: 0px;
+	}
+.forma span.input 
+	{
+    	width: 83% !important;
+	}	
+.forma span.input:nth-child(1) 
+	{
+    	width: 83% !important;
+	}
+.forma span.input:nth-child(2) 
+	{
+	    width: 83% !important;
+	}
+.button-send 
+	{
+    	font-size: 18px !important;
+	}
+.contakt .sidebar .col-xs-6 p:first-child 
+	{
+    	font-size: 18px;
+	}
+.contakt .advertising h1 
+	{
+    	padding: 0px 17px 6px;
+    	margin-top: -46px !important;
+    	font-size: 40px !important;
+	}
+.casinos-content h1 
+	{
+   		font: 700 41px "StencilStd";
+	}
+.sidebar ul li a img 
+	{
+    	width: 75px;
+    	height: 19px;	
+	}
+.block-5 h2, .block-6 h2, .block-4 h2, .block-7 h2, .block-8 h2, .block-9 h2 
+	{
+    	font: 700 20px "StencilStd";
+    	margin-top: 5px;
+    	margin-bottom: 20px;
+	}
+.sidebar li 
+	{
+    	height: 29px;
+	}
+.block-4 h5 
+	{
+    	font: 700 10px RobotoCondensed;
+	}
+	
+.block-4 .bg-img-4 
+	{
+    	width: 97.8%;
+    	height: 78%;
+    	margin-left: 3px;
+	}
+.block-4 .col-xs-3:nth-of-type(3) .bg-img-4:hover 
+	{
+    	width: 97.8%;
+    	height: 78%;
+	}
+.block-5-content h1 
+	{
+    	bottom: 37px;
+    	height: 46%;
+    	width: 63.8%;
+    	padding-top: 27px;
+   	 	font-size: 8px !important;
+	}
+.block-5 .col-xs-3:nth-of-type(3) .block-5-content h1 
+	{
+    	width: 64%;
+	}
+.bg-img-3 
+	{
+    	height: 80.8%;
+   		margin-left: 2px;
+	}
+.bg-img-4 
+	{
+    	width: 98.8%;
+    	margin-left: 1px;
+    	height: 101% !important;
+	}
+.block-bg 
+	{
+   	 	height: 24px;
+	}
+.block-footer 
+	{
+    	height: 242px !important;
+	}
+.block-header 
+	{
+    	padding: 150px 0px 11px !important;
+	}
+.news .sidebar ul li a img 
+	{
+    	width: 165px;
+    	height: 43px;
+	}
+.news .sidebar ul li
+	{
+		height: 53px;	
+	}
+.news .header 
+	{
+    	margin-bottom: 15px;
+	}
+.news-c:last-child
+	{
+		margin-bottom: 15px;	
+	}	
+.sidebar .col-xs-6 p 
+	{
+    	font-size:11px;
+	}
+#COINWIDGETCOM_WINDOW_0 
+	{
+    	width: 161px !important;
+	}	
+.casinos-content h1 
+	{
+    	font: 700 18px "StencilStd";
+    	padding-top: 25px !important;
+	}
+.casinos-page-2
+	{
+    	margin-top: 5px;
+		padding-right: 2px;
+	}
+.casinos-page-2 .col-xs-2 a 
+	{
+    	font-size: 36% !important;
+	}
+.casinos-page-2 .header 
+	{
+    	margin-bottom: 20px;
+    	margin-top: 10px !important;
+	}
+.advertising:last-child 
+	{
+    	margin-bottom: 10px;
+	}
+.contakt .advertising img 
+	{
+    	margin-top: 10px !important;
+	}
+.forma 
+	{
+    	border: 1px solid #ACACAC;
+		margin-top: 5px;
+	}
+.contakt .sidebar ul li a img 
+	{
+    	width: 100% !important;
+    	height: 92px !important;
+	}
+.contakt .sidebar li 
+	{
+    	height: 102px;
+	}
+.news .sidebar 
+	{
+    	margin-bottom: 10px;
+    	padding-left: 5px !important;
+	}
+.news .sidebar ul li a img {
+    	width: 169px !important;
+    	height: 44px !important;
+	}
+
+.casinos-page-2 .sidebar li 
+	{
+    	height: 102px !important;
+		width: 100% !important;
+	}
+.sidebar ul li a img 
+	{
+    	width: 100% !important;
+    	height: 92px !important;
+	}
+}
+@media only screen and (max-width : 320px) 
+{
+.contakt .block-5-content h2 
+	{
+    	font-size: 44px !important;
+    	left: 20px !important;
+	}
+.contakt .advertising h1 
+	{
+		margin-top: -39px !important;
+		font-size: 33px !important;
+		padding: 0px 20px 6px;
+	}
+.contakt .sidebar .col-xs-6 p:first-child 
+	{
+    	font-size: 16px;
+	}	
+.sb-search.sb-search-open, .no-js .sb-search 
+	{
+    	width: 74%;
+	}
+.block-2 .col-xs-3
+	{
+		width: 25% !important;	
+	}
+.col-xs-3
+	{ 
+		width: 50% !important;
+		padding: 0 1.5px !important;
+		overflow: hidden;
+	}
+.col-xs-12
+	{
+		padding:0 5px !important;	
+	}
+.block-2 .col-xs-3
+	{
+		padding: 0 5px !important;`
+	}	
+.col-xs-9
+	{
+		padding: 0 5px !important;	
+	}
+#hitbtc-canvas
+	{
+		padding: 0 !important;
+	}
+#btc-quote 
+	{
+    	margin-left: 0px !important;
+	}
+#hitbtc-ticker.hit-small 
+	{
+    	height: 150px !important;
+	}	
+.block-6 h5,  .block-7 h5, .block-8 h5 
+	{
+    	font: 700 12.37px/16px RobotoCondensed;
+    	margin-bottom: 3px;
+    	margin-top: 10px;
+		margin-left: 3px;
+	}
+.block-5-content h2
+	{
+		font: 700 12px/18px "StencilStd";
+	}
+.block-4 h2 
+	{
+		font: 700 7px RobotoCondensed;
+		margin-left: 5px;
+	}
+.block-4 .col-xs-12 .col-xs-3:first-of-type h2 
+	{
+    	margin-bottom: 12px !important;
+	}
+.block-4 .col-xs-3:nth-child(4)
+	{
+		clear: both;
+	}
+.block-3 .col-xs-3
+	{
+		width: 100% !important;
+		padding-top: 10px !important;
+	}
+.block-2 .col-xs-3
+	{
+		width: 100% !important;	
+	}
+.block-2 .col-xs-9
+	{
+		width: 100% !important;	
+	}
+.logo img 
+	{
+		width: 10%;
+		left: 20%;
+		top: 15%;
+	}
+.news-content h4 span 
+	{
+		font: 700 6px RobotoCondensed;
+	}
+.news-content h4
+	{
+		font: 700 6px RobotoCondensed;
+	}
+.advertising h1 
+	{
+		width: 98.6%;
+	}
+.casinos-content p 
+	{
+    	font: 400 8px RobotoCondensed;	
+	}
+.casinos-page-2 .col-xs-2 a 
+	{
+    	font-size: 39% !important;
+	}
+.casinos-page-2 .col-xs-6 p 
+	{
+    	font-size: 11px !important;
+	}
+.casinos-page-2 .advertising h1 
+	{
+    	padding: 7px 25.5px 6px !important;
+	}
+.casinos-page-2 .sb-biz h2 
+	{
+    	left: 20px !important;
+	}
+#owl-demo .item img 	
+	{
+    	margin-bottom: 0px !important;
+	}
+.slider a
+	{
+    	bottom: 73px;
+	}
+.sidebar a:first-child p 
+	{
+    	padding-top: 0px;
+	}
+.slider 
+	{
+    	margin-bottom: 0px;
+		margin-top: 20px;
+	}
+.sidebar ul li a img 
+	{
+    	width: 100% !important;
+    	height: 74px;
+	}
+.sidebar li 
+	{
+    	height: 85px;
+	}
+.sidebar p 
+	{
+    	font-size: 12px;
+	}
+.sidebar li 
+	{
+    	height: 85px;
+    	width: 100%;
+	}
+.block-4 .bg-img-4 
+	{
+    	width: 97.8%;
+    	height: 86% !important;
+    	margin-left: 3px;
+	}
+.block-4 h5 
+	{
+    	margin-bottom: 0;
+		margin-top: 0;
+	}
+
+.block-5-content h1 
+	{
+		bottom: 37px;
+		height: 74%;
+		width: 97.8%;
+		padding-top: 90px;
+		font-size: 18px !important;
+		margin-left: -13px !important;
+	}
+.block-footer {
+  height: 324px !important;
+}
+.block-bg 
+	{
+    	height: 40px;
+	}	
+.bg-img-3
+	{
+    	height: 77.8%;
+    	margin-left: 2px;
+	}
+.block-4, .block-5, .block-6, .block-7, .block-8, .block-9 
+	{
+    	background-size: 100% 40px !important;
+	}	
+.block-5 h2, .block-6 h2, .block-4 h2, .block-7 h2, .block-8 h2, .block-9 h2 
+	{
+    	font: 700 20px "StencilStd" !important;
+    	margin-top: 5px;
+    	margin-bottom: 30px;
+	}
+.block-4 h5 
+	{
+    	font: 700 15px RobotoCondensed;
+	}
+
+.block-4 img:first-child
+	{
+    	display: table;
+    	margin: 0px auto 0px;
+	}
+.block-9 .useful_banner_manager_banner img 
+	{
+    	width: 100%;
+    	height: 100%;
+    	margin-bottom: 15px;
+    	margin-top: 0px;
+	}
+.block-9 h4 
+	{
+    	font-size: 14px;
+    	margin-top: 0 !important;
+    	margin-bottom: 0px !important;
+	}
+.img-page
+	{
+		margin-bottom: 10px !important;	
+	}
+.block-9 .col-xs-12 img 
+	{
+    	margin: 0px auto 10px !important;
+    	display: table;
+	}
+.soc ul 
+	{
+    	padding-left: 0;
+	}
+.copiright
+	{
+		padding-left: 0;	
+	}
+
+.news 
+	{
+    	margin-top: 25px;
+	}
+.news .col-xs-9,.news .col-xs-3
+	{
+		width: 100% !important;	
+	}
+.news .sidebar ul li a img 
+	{
+    	width: 100%;
+    	height: 80px;
+	}
+.news .sidebar ul li
+	{
+    	height: 90px;
+	}
+.news .col-lg-3 .block-5-content h2 
+	{
+    	font-size: 23px !important;
+	}
+.search-in .button-red 
+	{
+    	padding: 3px 10px;
+    	margin-bottom: 10px !important;
+	}
+#COINWIDGETCOM_WINDOW_0 
+	{
+    	width:307px!important;
+    	left: 5px!important;
+	}
+.news h2 
+	{
+    	font: 700 10px "StencilStd";
+    	margin-bottom: 5px;
+	}
+.news 	
+	{
+    	margin-top: 5px;
+	}
+.sidebar ul li a img 
+	{
+    	width: 100% !important;
+    	height: 81px !important;
+	}
+	.wrapper.casinos-page-1 .col-xs-12 .col-xs-3.button .button-red {
+    font: 400 7px RobotoCondensed !important;
+    padding: 3px 12px;
+}
+	
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

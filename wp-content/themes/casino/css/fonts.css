@@ -1,0 +1,68 @@
+@font-face 
+{
+	font-family: 'StencilStd';
+	src: url('../fonts/StencilStd/StencilStd.eot');
+	src: url('../fonts/StencilStd/StencilStd.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/StencilStd/StencilStd.woff') format('woff'),
+		 url('../fonts/StencilStd/StencilStd.ttf') format('truetype'),
+		 url('../fonts/StencilStd/StencilStd.svg#FontName') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face 
+{
+	font-family: 'RobotoCondensed-Bold';
+	src: url('../fontsRobotoCondensed-Bold/RobotoCondensed-Bold.eot');
+	src: url('../fontsRobotoCondensed-Bold/RobotoCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fontsRobotoCondensed-Bold/RobotoCondensed-Bold.woff') format('woff'),
+		 url('../fontsRobotoCondensed-Bold/RobotoCondensed-Bold.ttf') format('truetype'),
+		 url('../fontsRobotoCondensed-Bold/RobotoCondensed-Bold.svg#FontName') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face 
+{
+	font-family: 'RobotoCondensed';
+	src: url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.eot');
+	src: url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.woff') format('woff'),
+		 url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.ttf') format('truetype'),
+		 url('../fonts/RobotoCondensed-Regular/RobotoCondensed-Regular.svg#FontName') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face 
+{
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon/icomoon.eot');
+	src:url('../fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon/icomoon.woff') format('woff'),
+		url('../fonts/icomoon/icomoon.ttf') format('truetype'),
+		url('../fonts/icomoon/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face 
+{
+	font-family: 'FontAwesome';
+	src: url('../fonts/fontawesome/fontawesome-webfont.eot');
+	src: url('../fonts/fontawesome/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/fontawesome/fontawesome-webfont.woff') format('woff'),
+		 url('../fonts/fontawesome/fontawesome-webfont.ttf') format('truetype'),
+		url('../fonts/fontawesome/fontawesome-webfont.svg#FontName') format('svg');
+
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face 
+{
+	font-family: 'RobotoSlab-Bold';
+	src: url('../fonts/RobotoSlab-Bold/RobotoSlab-Bold.eot');
+	src: url('../fonts/RobotoSlab-Bold/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/RobotoSlab-Bold/RobotoSlab-Bold.woff') format('woff'),
+		 url('../fonts/RobotoSlab-Bold/RobotoSlab-Bold.ttf') format('truetype'),
+		url('../fonts/RobotoSlab-Bold/RobotoSlab-Bold.svg#FontName') format('svg');
+
+	font-style: normal;
+	font-weight: normal;
+}

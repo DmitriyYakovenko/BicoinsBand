@@ -1,0 +1,2 @@
+[02-Dec-2015 15:42:33 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/mutilatorxxx/public_html/wp-content/themes/casino/index.php on line 1
+[25-Dec-2015 01:57:21 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/mutilatorxxx/public_html/wp-content/themes/casino/404.php on line 1

@@ -1,0 +1,21 @@
+<wpml-config>
+    <admin-texts>
+        <key name="en_theme_options">
+            <key name="divider_1" />
+            <key name="divider_2" />
+            <key name="divider_3" />
+            <key name="divider_4" />
+            <key name="divider_5" />
+            <key name="divider_6" />
+            <key name="copyright" />
+            <key name="casino-page-text" />
+            <key name="trading-page-text" />
+            <key name="teaser-page-text" />
+            <key name="gambl-page-text" />
+            <key name="news1-text" />
+            <key name="news2-text" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
